@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Product 1",
+        "description": "Description product 1",
+        "code": "CODE001",
+        "price": 65,
+        "status": true,
+        "stock": 33,
+        "category": "Random",
+        "id": 1
+    },
+    {
+        "title": "Product 2",
+        "description": "Description product 2",
+        "code": "CODE002",
+        "price": 276,
+        "status": true,
+        "stock": 11,
+        "category": "Random2",
+        "id": 2
+    },
+    {
+        "title": "Product 3",
+        "description": "Description product 3",
+        "code": "CODE003",
+        "price": 99,
+        "status": true,
+        "stock": 2,
+        "category": "Random3",
+        "id": 3
+    }
+]
